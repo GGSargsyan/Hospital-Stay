@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Grigor Sargsyan
+ * @author grigor.sargsyan@yahoo.com
  */
 public class HospitalStay 
 {/**
